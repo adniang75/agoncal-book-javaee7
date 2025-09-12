@@ -33,17 +33,17 @@
     <version.weld>2.3.2.Final</version.weld>
     <version.jersey>2.22.2</version.jersey>
     <version.eclipselink>2.6.2</version.eclipselink>
-    <version.hibernate.validator>5.1.2.Final</version.hibernate.validator>
+    <version.hibernate.validator>6.2.0.Final</version.hibernate.validator>
     <version.el>3.0.1-b03</version.el>
     <version.json>1.0.4</version.json>
     <!-- Databases -->
-    <version.derby>10.10.1.1</version.derby>
+    <version.derby>10.17.1.0</version.derby>
     <version.mysql>5.1.21</version.mysql>
     <!-- Test -->
     <skipTests>false</skipTests>
     <skipITs>${skipTests}</skipITs>
     <skipUTs>${skipTests}</skipUTs>
-    <version.junit>4.11</version.junit>
+    <version.junit>4.13.1</version.junit>
     <version.xmlunit>1.4</version.xmlunit>
     <version.mockito>1.9.5</version.mockito>
     <!-- Maven Plugins -->
